@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  NumPickerView.h
 //  PickerViewDemo
 //
 //  Created by gs_sh on 2017/12/19.
@@ -8,9 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-@property (weak, nonatomic) NSString *a;
+@interface NumPickerView : UIView
 
 @end
-
